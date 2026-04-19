@@ -168,11 +168,11 @@ function UnsuspendedPage() {
                 />
               </svg>
             </div>
-            <div className="relative -mr-40 pl-4 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12">
+            <div className="relative -mr-40 pl-4 sm:mx-auto sm:max-w-3xl sm:px-0 lg:flex lg:max-w-none lg:items-start lg:pl-12">
               <img
-                className="w-full rounded-md shadow-xl ring-1 ring-black ring-opacity-5 lg:h-full lg:w-auto lg:max-w-none"
-                src="https://images.unsplash.com/photo-1465661668481-15b9405ca28e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&flip=h&w=1074&q=80"
-                alt=""
+                className="h-auto max-w-full w-auto rounded-md shadow-xl ring-1 ring-black ring-opacity-5"
+                src="/hero-care.png"
+                alt="Caregiver assisting an elderly resident with a walker"
               />
             </div>
           </div>
