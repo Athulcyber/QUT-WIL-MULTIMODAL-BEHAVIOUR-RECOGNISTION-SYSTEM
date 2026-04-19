@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800px" height="400px" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+  <!-- Main square icon -->
+  <rect x="50" y="50" width="300" height="300" rx="40" fill="none" stroke="#0D355D" stroke-width="12"/>
+
+  <!-- Grid dividers -->
+  <line x1="200" y1="50" x2="200" y2="350" stroke="#0D355D" stroke-width="6"/>
+  <line x1="50" y1="200" x2="350" y2="200" stroke="#0D355D" stroke-width="6"/>
+
+  <!-- Top-left: Profile silhouette -->
+  <circle cx="125" cy="125" r="50" fill="#0D355D"/>
+
+  <!-- Top-right: Chat bubble -->
+  <rect x="210" y="85" width="100" height="60" rx="10" fill="#9B59B6"/>
+  <circle cx="230" cy="105" r="6" fill="#ffffff"/>
+  <circle cx="250" cy="105" r="6" fill="#ffffff"/>
+  <circle cx="270" cy="105" r="6" fill="#ffffff"/>
+
+  <!-- Bottom-left: Camera icon -->
+  <rect x="90" y="240" width="80" height="50" rx="8" fill="#F39C12"/>
+  <polygon points="170,255 200,240 200,290 170,275" fill="#F39C12"/>
+
+  <!-- Bottom-right: Heartbeat icon -->
+  <polyline points="220,280 240,260 255,300 275,240 295,285" fill="none" stroke="#16A085" stroke-width="6"/>
+
+  <!-- Text -->
+  <text x="380" y="140" font-family="Arial" font-size="36px" fill="#0D355D">MULTIMODAL</text>
+  <text x="380" y="190" font-family="Arial" font-size="36px" fill="#0D355D">BEHAVIOR</text>
+  <text x="380" y="240" font-family="Arial" font-size="36px" fill="#0D355D">RECOGNITION</text>
+  <text x="380" y="290" font-family="Arial" font-size="20px" fill="#555">IN HEALTHCARE DOMAIN</text>
+
+</svg>

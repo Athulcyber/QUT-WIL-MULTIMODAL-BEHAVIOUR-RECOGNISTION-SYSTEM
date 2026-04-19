@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <!-- Heart outline -->
+  <path d="M256 464s-136-92-184-160c-40-56-16-136 48-160 44-16 92 4 136 64 44-60 92-80 136-64 64 24 88 104 48 160-48 68-184 160-184 160z"
+        stroke="#E53935" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Pulse line -->
+  <path d="M96 256h80l24-64 40 128 32-80h48l20-40 20 56h96"
+        stroke="#E53935" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

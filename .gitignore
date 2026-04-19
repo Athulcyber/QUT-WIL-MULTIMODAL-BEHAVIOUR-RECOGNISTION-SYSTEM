@@ -1,0 +1,22 @@
+# Env & secrets (never commit)
+.env
+.env.*
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Dependencies & build
+node_modules/
+.next/
+out/
+dist/
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

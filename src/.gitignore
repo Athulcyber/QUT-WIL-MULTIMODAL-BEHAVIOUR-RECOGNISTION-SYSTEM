@@ -1,0 +1,24 @@
+.vscode
+.mypy_cache
+docker-stack.yml
+*.txt
+.env
+*.code-workspace
+.s3cfg
+
+*.pth
+backend/app/app/best_multimodal_model.pth
+
+.DS_Store
+# Dataset — never commit
+data/
+datasets/
+UTD-MHAD/
+Skeleton/
+Inertial/
+Depth/
+*.mat
+*.npy
+*.h5
+*.pkl
+notebooks/.ipynb_checkpoints/

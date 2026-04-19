@@ -1,0 +1,39 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background square with rounded corners -->
+  <rect x="16" y="16" width="480" height="480" rx="64" fill="#F0F0F0" stroke="#0D355D" stroke-width="32"/>
+
+  <!-- Top Left: Head Icon -->
+  <rect x="48" y="48" width="192" height="192" fill="#2980B9"/>
+  <circle cx="144" cy="144" r="40" fill="#FFFFFF"/>
+  <path d="M100,180 C120,160 180,160 200,180" stroke="#FFFFFF" stroke-width="8" fill="none"/>
+
+  <!-- Top Right: Chat Bubble -->
+  <rect x="272" y="48" width="192" height="192" fill="#9B59B6"/>
+  <circle cx="368" cy="128" r="40" fill="#FFFFFF"/>
+  <circle cx="356" cy="120" r="6" fill="#9B59B6"/>
+  <circle cx="368" cy="120" r="6" fill="#9B59B6"/>
+  <circle cx="380" cy="120" r="6" fill="#9B59B6"/>
+
+  <!-- Bottom Left: Camera -->
+  <rect x="48" y="272" width="192" height="192" fill="#F39C12"/>
+  <rect x="96" y="320" width="96" height="64" fill="#FFFFFF"/>
+  <polygon points="192,336 224,320 224,384 192,368" fill="#FFFFFF"/>
+
+  <!-- Bottom Right: Heartbeat -->
+  <rect x="272" y="272" width="192" height="192" fill="#16A085"/>
+  <polyline points="288,368 320,352 336,400 368,336 400,384" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+
+  <!-- Text -->
+  <text x="520" y="180" font-size="48" font-family="Arial" fill="#0D355D">
+    MULTIMODAL
+  </text>
+  <text x="520" y="240" font-size="48" font-family="Arial" fill="#0D355D">
+    BEHAVIOR
+  </text>
+  <text x="520" y="300" font-size="48" font-family="Arial" fill="#0D355D">
+    RECOGNITION
+  </text>
+  <text x="520" y="360" font-size="28" font-family="Arial" fill="#555">
+    IN HEALTHCARE DOMAIN
+  </text>
+</svg>
